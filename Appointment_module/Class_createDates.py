@@ -10,8 +10,7 @@ from PIL import ImageTk,Image
 from datetime import datetime
 from tkcalendar import Calendar, DateEntry
 from datetime import datetime,date
-from Appointment_module.Class_list import Listinfo
-from Common_classes.Class_validation import Validation
+from Class_list import Listinfo
 
 from Members_module.Usuarios import *
 from Class_Appoitments import Appoitments
